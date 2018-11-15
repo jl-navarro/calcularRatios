@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fields templateEngineKind="Velocity">
+	<description><![CDATA[]]>
+	</description>
+	<field name="ratiosReuters.Beta" list="true" imageName=""
+		syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+	<field name="ratiosReuters.CrecimientoDividendo" list="true"
+		imageName="" syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+	<field name="ratiosReuters.CurrentRatio" list="true" imageName=""
+		syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+	<field name="ratiosReuters.DebtEquity" list="true" imageName=""
+		syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+	<field name="ratiosReuters.Empresa" list="true" imageName=""
+		syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+	<field name="ratiosReuters.Per" list="true" imageName=""
+		syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+	<field name="ratiosReuters.QuickRatio" list="true" imageName=""
+		syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+	<field name="ratiosReuters.RentabilidadDividendo" list="true"
+		imageName="" syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+	<field name="ratiosReuters.Roa" list="true" imageName=""
+		syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+	<field name="ratiosReuters.Roe" list="true" imageName=""
+		syntaxKind="">
+		<description><![CDATA[]]>
+		</description>
+	</field>
+</fields>

@@ -1,0 +1,14 @@
+[
+	{
+		"ticker": "TEF",
+		"empresa": "Telefónica",
+		"ticker_morningstar": "TEFOF",
+		"ticker_reuters": "TEF.MC"
+	},
+	{
+		"ticker": "REE",
+		"empresa": "Red eléctrica corporación",
+		"ticker_morningstar": "",
+		"ticker_reuters": "REE.MC"
+	}
+]
